@@ -1,6 +1,6 @@
 # Three.js template
 
-#### [Online demo](https://codesandbox.io/p/devbox/github/bcjohnblue/threejs-template/tree/main/)
+#### [Online demo](https://codesandbox.io/p/devbox/threejs-shader-flag-9qfn3w)
 
 ## Techs
 
